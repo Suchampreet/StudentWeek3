@@ -20,6 +20,8 @@ public class StudentWeek3 {
         Student s1=new Student();
         s1.setFirstName("John");
         s1.setId(4);
+        
+        System.out.println("See u again");
     }
     
 }
